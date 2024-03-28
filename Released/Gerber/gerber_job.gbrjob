@@ -1,11 +1,11 @@
 {
     "Header": {
         "Comment": "All values are metric (mm)",
-        "CreationDate": "2019-05-20T00:00:14Z",
+        "CreationDate": "2024-03-28T09:44:30Z",
         "GenerationSoftware": {
             "Application": "EAGLE",
             "Vendor": "Autodesk",
-            "Version": "9.3.0"
+            "Version": "9.6.1"
         },
         "Part": "Single"
     },
@@ -13,9 +13,9 @@
         "BoardThickness": 1.57,
         "LayerNumber": 2,
         "Name": {
-            "ProjectId": "H00R80"
+            "ProjectId": "H00R8"
         },
-        "Owner": "Asaad Kaadan <asaad@hexabitz.com>",
+        "Owner": "Ibrahim Zaeiter <zeater18@gmail.com>",
         "Size": {
             "X": 34.64,
             "Y": 30

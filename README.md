@@ -1,2 +1,2 @@
-# H00R80-Hardware
+# H00R8x-Hardware
 Hexabitz SMT Breadboard Module - 100:8 mil Hardware Design
